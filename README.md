@@ -1,1 +1,1 @@
-ui_web.png
+![the ui image](./ui_web.png)
